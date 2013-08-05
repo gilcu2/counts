@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32bb5c81-e92e-4258-b5cb-cfe733bb11be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countsApp/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/countsApp/models.py" afterPath="$PROJECT_DIR$/countsApp/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counts/settings.py" afterPath="$PROJECT_DIR$/counts/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counts/urls.py" afterPath="$PROJECT_DIR$/counts/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="counts.iws" />
@@ -15,20 +11,34 @@
     <file path="/local_settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375112391922" ignored="false" />
     <file path="/settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375195275548" ignored="false" />
     <file path="/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375365242734" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/service_catalog/settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375354269518" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/apps/case/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375360886649" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/service_catalog/settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375689294060" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/case/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375689575043" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/registration/views.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375198367190" ignored="false" />
-    <file path="/Dummy.txt" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375355983245" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/apps/catalog/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375354269518" ignored="false" />
+    <file path="/Dummy.txt" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375366920484" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/catalog/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048735" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/sphinx_doc/celery-rabbitmq.rst" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375172800030" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/provision/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375172800030" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/apps/registration/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375354269518" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/registration/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/.gitignore" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375173007382" ignored="false" />
     <file path="/Django Console" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375366514220" ignored="false" />
     <file path="/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375366358752" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/apps/case/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375360903246" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/case/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375689575043" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/reports/utils.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375348431099" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/apps/registration/middleware.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375360886649" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/registration/middleware.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375687855555" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/service_catalog/local_settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375689462833" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/messages/__init__.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/admin/sites.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/utils/translation/__init__.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/forms/forms.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/admin/views/main.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/conf/__init__.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/messages/constants.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/forms/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/utils/html.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/admin/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/admin/options.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048735" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/utils/autoreload.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048735" ignored="false" />
+    <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/utils/timezone.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048735" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,13 +376,18 @@
       <created>1375196997316</created>
       <updated>1375196997316</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Step">
+      <created>1375366929783</created>
+      <updated>1375366929783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="0" width="1920" height="1040" extended-state="2" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -381,13 +396,12 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847533" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847533" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847533" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
