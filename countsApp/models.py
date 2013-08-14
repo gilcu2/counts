@@ -25,3 +25,9 @@ class Count(models.Model):
 
     def recently_updated(self):
         return self.last_update >= timezone.now() - datetime.timedelta(days=7)
+
+    def changed_recently(self):
+        return self.last_update >= timezone.now() - datetime.timedelta(days=7)
+    changed_recently.admin_order_field = 'last_update'
+    changed_recently.boolean = True
+    changed_recently.short_description = 'Changed recently?'

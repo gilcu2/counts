@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="32bb5c81-e92e-4258-b5cb-cfe733bb11be" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/countsApp/admin.py" afterPath="$PROJECT_DIR$/countsApp/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/countsApp/models.py" afterPath="$PROJECT_DIR$/countsApp/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counts/settings.py" afterPath="$PROJECT_DIR$/counts/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="counts.iws" />
@@ -11,22 +13,22 @@
     <ignored path="service_catalog/local_settings.py" />
     <file path="/local_settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375112391922" ignored="false" />
     <file path="/settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375195275548" ignored="false" />
-    <file path="/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375365242734" ignored="false" />
+    <file path="/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376491298745" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/service_catalog/settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376471067004" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/case/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375888113781" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/registration/views.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375198367190" ignored="false" />
-    <file path="/Dummy.txt" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376477570346" ignored="false" />
+    <file path="/Dummy.txt" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376477820541" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/catalog/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375796133941" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/sphinx_doc/celery-rabbitmq.rst" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375172800030" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/provision/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375172800030" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/registration/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375888113781" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/.gitignore" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375173007382" ignored="false" />
     <file path="/Django Console" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375866593217" ignored="false" />
-    <file path="/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376477757870" ignored="false" />
+    <file path="/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376491627574" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/case/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375799709086" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/reports/utils.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375710398302" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/registration/middleware.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375687855555" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/service_catalog/local_settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376474613068" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/service_catalog/local_settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376485060891" ignored="false" />
     <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/messages/__init__.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
     <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/admin/sites.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
     <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/utils/translation/__init__.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
@@ -77,7 +79,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/counts/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="167" column="40" selection-start="5283" selection-end="5283" vertical-scroll-proportion="0.0">
+            <state line="40" column="20" selection-start="820" selection-end="820" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#63#72#0" expanded="true" />
               </folding>
@@ -88,7 +90,7 @@
       <file leaf-file-name="admin.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/countsApp/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="27" selection-start="456" selection-end="456" vertical-scroll-proportion="0.47202796">
+            <state line="20" column="26" selection-start="552" selection-end="552" vertical-scroll-proportion="0.5244755">
               <folding>
                 <element signature="e#20#52#0" expanded="true" />
               </folding>
@@ -108,7 +110,7 @@
       <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/countsApp/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
+            <state line="29" column="31" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -242,6 +244,42 @@
     </option>
   </component>
   <component name="RunManager" selected="Django server.counts">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="counts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.AppEngineServer" factoryName="App Engine server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="counts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="browserUrl" value="" />
+      <option name="additionalOptions" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,6 +295,19 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <module name="" />
+      <option name="PORT" value="0" />
+      <option name="HOST" value="null" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list />
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
@@ -421,7 +472,11 @@
       <created>1376477573015</created>
       <updated>1376477573015</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="list display">
+      <created>1376477823107</created>
+      <updated>1376477823107</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -490,7 +545,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="With AllCounts" />
+    <option name="LAST_COMMIT_MESSAGE" value="list display" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -508,6 +563,7 @@
     <MESSAGE value="With StackedInline" />
     <MESSAGE value="With TabularInline" />
     <MESSAGE value="With AllCounts" />
+    <MESSAGE value="list display" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -592,15 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/counts/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="167" column="40" selection-start="5283" selection-end="5283" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#63#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/counts/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
@@ -615,16 +662,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/counts/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="20" selection-start="820" selection-end="820" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#63#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/countsApp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
+        <state line="29" column="31" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/countsApp/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="27" selection-start="456" selection-end="456" vertical-scroll-proportion="0.47202796">
+        <state line="20" column="26" selection-start="552" selection-end="552" vertical-scroll-proportion="0.5244755">
           <folding>
             <element signature="e#20#52#0" expanded="true" />
           </folding>
