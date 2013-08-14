@@ -172,3 +172,12 @@ LOGGING = {
     }
 }
 
+TEMPLATE_DIRS = (
+    'templates',
+)
+
+
+try:
+    from counts.local_settings import *
+except ImportError:
+    pass
