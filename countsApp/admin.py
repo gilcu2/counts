@@ -15,4 +15,8 @@ class UserAdmin(admin.ModelAdmin):
     ]
     inlines = [CountInline]
 
+class CountAdmin(admin.ModelAdmin):
+    pass
+
 admin.site.register(User,UserAdmin)
+admin.site.register(Count,CountAdmin)
