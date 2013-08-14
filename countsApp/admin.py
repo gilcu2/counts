@@ -3,7 +3,7 @@ __author__ = 'gil'
 from django.contrib import admin
 from countsApp.models import Count,User
 
-class CountInline(admin.StackedInline):
+class CountInline(admin.TabularInline):
     model = Count
     extra = 3
 
