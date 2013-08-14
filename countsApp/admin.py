@@ -16,7 +16,7 @@ class UserAdmin(admin.ModelAdmin):
     inlines = [CountInline]
 
 class CountAdmin(admin.ModelAdmin):
-    pass
+    list_display = ('user','name', 'count')
 
 admin.site.register(User,UserAdmin)
 admin.site.register(Count,CountAdmin)
