@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32bb5c81-e92e-4258-b5cb-cfe733bb11be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countsApp/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counts/settings.py" afterPath="$PROJECT_DIR$/counts/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counts/urls.py" afterPath="$PROJECT_DIR$/counts/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/countsApp/views.py" afterPath="$PROJECT_DIR$/countsApp/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="counts.iws" />
@@ -18,7 +14,7 @@
     <file path="$PROJECT_DIR$/../service-catalog/service_catalog/settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376471067004" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/case/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375888113781" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/registration/views.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375198367190" ignored="false" />
-    <file path="/Dummy.txt" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376492348228" ignored="false" />
+    <file path="/Dummy.txt" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376496418206" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/catalog/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375796133941" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/sphinx_doc/celery-rabbitmq.rst" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375172800030" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/provision/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375172800030" ignored="false" />
@@ -517,7 +513,11 @@
       <created>1376492351073</created>
       <updated>1376492351074</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="elemental view">
+      <created>1376496420022</created>
+      <updated>1376496420022</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -586,7 +586,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="date hierarchy" />
+    <option name="LAST_COMMIT_MESSAGE" value="elemental view" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -607,6 +607,7 @@
     <MESSAGE value="list display" />
     <MESSAGE value="filters and searchs" />
     <MESSAGE value="date hierarchy" />
+    <MESSAGE value="elemental view" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
