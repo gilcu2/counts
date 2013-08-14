@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32bb5c81-e92e-4258-b5cb-cfe733bb11be" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="counts.iws" />
@@ -12,21 +11,21 @@
     <file path="/local_settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375112391922" ignored="false" />
     <file path="/settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375195275548" ignored="false" />
     <file path="/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375365242734" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/service_catalog/settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375689294060" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/apps/case/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375689575043" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/service_catalog/settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376471067004" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/case/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375888113781" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/registration/views.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375198367190" ignored="false" />
-    <file path="/Dummy.txt" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375694714022" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/apps/catalog/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375693746029" ignored="false" />
+    <file path="/Dummy.txt" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376467996122" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/catalog/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375796133941" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/sphinx_doc/celery-rabbitmq.rst" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375172800030" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/provision/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375172800030" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/apps/registration/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375693746029" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/registration/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375888113781" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/.gitignore" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375173007382" ignored="false" />
-    <file path="/Django Console" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375366514220" ignored="false" />
+    <file path="/Django Console" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375866593217" ignored="false" />
     <file path="/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375366358752" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/apps/case/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375693746029" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/apps/reports/utils.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375348431099" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/case/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375799709086" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/reports/utils.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375710398302" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/registration/middleware.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375687855555" ignored="false" />
-    <file path="$PROJECT_DIR$/../service-catalog/service_catalog/local_settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375689462833" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/service_catalog/local_settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376474613068" ignored="false" />
     <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/messages/__init__.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
     <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/admin/sites.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
     <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/utils/translation/__init__.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048734" ignored="false" />
@@ -40,6 +39,12 @@
     <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/contrib/admin/options.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048735" ignored="false" />
     <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/utils/autoreload.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048735" ignored="false" />
     <file path="$USER_HOME$/.virtualenvs/service-catalog/lib/python2.7/site-packages/django/utils/timezone.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375690048735" ignored="false" />
+    <file path="/utils.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375706246186" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/reports/templates/claro_report.html" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375701560715" ignored="false" />
+    <file path="/fragment.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375705685970" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/apps/reports/views.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375713340025" ignored="false" />
+    <file path="/views.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375711770937" ignored="false" />
+    <file path="$PROJECT_DIR$/../service-catalog/service_catalog/dashboard.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375776761348" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/counts/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="167" column="40" selection-start="5283" selection-end="5283" vertical-scroll-proportion="0.7750865">
+            <state line="167" column="40" selection-start="5283" selection-end="5283" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#63#72#0" expanded="true" />
               </folding>
@@ -79,28 +84,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="admin.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/countsApp/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="12" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sites.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.virtualenvs/counts/lib/python2.7/site-packages/django/contrib/admin/sites.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="0" selection-start="2857" selection-end="2857" vertical-scroll-proportion="0.0">
+            <state line="5" column="37" selection-start="131" selection-end="131" vertical-scroll-proportion="0.10489511">
               <folding />
             </state>
           </provider>
@@ -119,6 +106,15 @@
         <entry file="file://$PROJECT_DIR$/countsApp/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="27" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/countsApp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -186,6 +182,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -204,21 +201,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="counts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="counts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="countsApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Ignored.Files" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Ignored.Files" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../service-catalog/service_catalog/local_settings.py" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -246,29 +256,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="counts" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,6 +277,29 @@
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="counts" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -392,7 +402,11 @@
       <created>1375693098454</created>
       <updated>1375693098454</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First Step">
+      <created>1375694735745</created>
+      <updated>1375694735745</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -403,11 +417,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25508022" sideWeight="0.6722595" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.257754" sideWeight="0.67152464" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847533" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847533" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -481,13 +495,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/counts/lib/python2.7/site-packages/django/contrib/admin/sites.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="0" selection-start="2857" selection-end="2857" vertical-scroll-proportion="0.0">
@@ -553,30 +560,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/counts/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/counts/lib/python2.7/site-packages/django/contrib/admin/sites.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="0" selection-start="2857" selection-end="2857" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/countsApp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/countsApp/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="12" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -590,10 +576,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/counts/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="167" column="40" selection-start="5283" selection-end="5283" vertical-scroll-proportion="0.7750865">
+        <state line="167" column="40" selection-start="5283" selection-end="5283" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#63#72#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counts/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countsApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countsApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/countsApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="37" selection-start="131" selection-end="131" vertical-scroll-proportion="0.10489511">
+          <folding />
         </state>
       </provider>
     </entry>
