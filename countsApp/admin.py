@@ -19,6 +19,7 @@ class CountAdmin(admin.ModelAdmin):
     list_display = ('user','name', 'count','changed_recently')
     list_filter = ['last_update']
     search_fields = ['name']
+    date_hierarchy = 'last_update'
 
 admin.site.register(User,UserAdmin)
 admin.site.register(Count,CountAdmin)

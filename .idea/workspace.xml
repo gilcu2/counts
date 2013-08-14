@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32bb5c81-e92e-4258-b5cb-cfe733bb11be" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/countsApp/admin.py" afterPath="$PROJECT_DIR$/countsApp/admin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="counts.iws" />
@@ -14,14 +15,14 @@
     <file path="$PROJECT_DIR$/../service-catalog/service_catalog/settings.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376471067004" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/case/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375888113781" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/registration/views.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375198367190" ignored="false" />
-    <file path="/Dummy.txt" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376491714358" ignored="false" />
+    <file path="/Dummy.txt" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376491720883" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/catalog/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375796133941" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/sphinx_doc/celery-rabbitmq.rst" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375172800030" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/provision/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375172800030" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/registration/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375888113781" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/.gitignore" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375173007382" ignored="false" />
     <file path="/Django Console" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375866593217" ignored="false" />
-    <file path="/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376491627574" ignored="false" />
+    <file path="/admin.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1376492313482" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/case/models.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375799709086" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/reports/utils.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375710398302" ignored="false" />
     <file path="$PROJECT_DIR$/../service-catalog/apps/registration/middleware.py" changelist="32bb5c81-e92e-4258-b5cb-cfe733bb11be" time="1375687855555" ignored="false" />
@@ -87,7 +88,7 @@
       <file leaf-file-name="admin.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/countsApp/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="26" selection-start="552" selection-end="552" vertical-scroll-proportion="0.5244755">
+            <state line="24" column="30" selection-start="657" selection-end="657" vertical-scroll-proportion="0.6293706">
               <folding>
                 <element signature="e#20#52#0" expanded="true" />
               </folding>
@@ -477,7 +478,11 @@
       <created>1376491716030</created>
       <updated>1376491716030</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="filters and searchs">
+      <created>1376491724960</created>
+      <updated>1376491724960</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -492,7 +497,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.257754" sideWeight="0.67152464" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847533" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32847533" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -682,7 +687,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/countsApp/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="26" selection-start="552" selection-end="552" vertical-scroll-proportion="0.5244755">
+        <state line="24" column="30" selection-start="657" selection-end="657" vertical-scroll-proportion="0.6293706">
           <folding>
             <element signature="e#20#52#0" expanded="true" />
           </folding>
